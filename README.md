@@ -1,6 +1,6 @@
-- 👋 Hi, I'm Piyush Varman (You can call me PCV!)
-- 👀 I’m interested in Computer Science, Formula 1 and I am a bookworm!
-- 🌱 I’m currently learning Python (Class 11)
+- 🤙 Hi, I'm Piyush Varman (You can call me PCV!)
+- 💫 I’m interested in Computer Science💻, Formula 1🏁 and I am a bookworm📚!
+- 🤓 I’m currently learning Python(Class 11)
 
 
 <!---
