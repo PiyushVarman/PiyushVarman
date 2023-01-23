@@ -2,6 +2,8 @@
 - 💫 I’m interested in Computer Science💻, Formula 1🏁 and I am a bookworm📚!
 - 🤓 I’m currently learning Python(Class 11)
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=PiyushVarman&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!---
 PiyushVarman/PiyushVarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
