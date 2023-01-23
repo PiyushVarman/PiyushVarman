@@ -3,8 +3,7 @@
 - 🤓 I’m currently learning Python(Class 11)
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=PiyushVarman&theme=dark&background=000000)](https://git.io/streak-stats)
-
+https://github-readme-streak-stats.herokuapp.com/?user=PiyushVarman&theme=dark&background=000000)]
 <!---
 PiyushVarman/PiyushVarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
