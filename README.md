@@ -8,8 +8,11 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PiyushVarman&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
+>The journey's the best part even when the road gets hard.
+
 </div>
 <!---
 PiyushVarman/PiyushVarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
