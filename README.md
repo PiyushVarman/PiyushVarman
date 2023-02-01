@@ -13,6 +13,7 @@
 </div>
 
 ## :trophy:Achievements:
+
 -:2nd_place_medal:Part of a team ranked 2nd among 43 in the SRM Codathon 2023 (w/ @Rahul-LJ and @Uvan1532)
 +:mag:Attended an AI Workshop by AIWS held at the prestigious IIT Madras. 
 
