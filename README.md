@@ -1,4 +1,4 @@
-## :fire: About Me:
+## :fire:About Me:
 - 🤙 Hi, I'm Piyush Varman:india:(You can call me PCV!)
 - 💫 I’m interested in Computer Science💻, Formula 1🏁 and I am a bookworm📚!
 - 🤓 I’m currently learning Python(Class 11)
@@ -12,7 +12,7 @@
 
 </div>
 
-##:trophy:Achievements:
+## :trophy:Achievements:
 -:2nd_place_meda1:Part of a team ranked 2nd among 43 in the SRM Codathon 2023 (w/ @Rahul-LJ and @Uvan1532)
 *:mag:Attended an AI Workshop by AIWS held at the prestigious IIT Madras. 
 
