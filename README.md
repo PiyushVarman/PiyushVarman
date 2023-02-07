@@ -14,9 +14,9 @@
 
 ## :trophy:Achievements:
 
-* :2nd_place_medal:Part of a team ranked 2nd among 43 in the SRM Codathon 2023 (w/ @Rahul-LJ and @Uvan1532)
-* :mag:Attended an AI Workshop by AIWS held at the prestigious IIT Madras. 
-* :1st_place_medal:Secured *All-India highest marks* in Mathematics and Science in the Class 10 AISSE (Board Exams)
+* :2nd_place_medal:Part of a team ranked ***2nd among 43*** in the SRM Codathon 2023 (w/ @Rahul-LJ and @Uvan1532)
+* :mag:Attended an AI Workshop by AIWS held at the prestigious ***IIT Madras***. 
+* :1st_place_medal:Secured ***All-India highest marks*** in Mathematics and Science in the Class 10 AISSE (Board Exams)
 
 <!---
 PiyushVarman/PiyushVarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
