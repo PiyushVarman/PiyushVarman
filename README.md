@@ -19,7 +19,9 @@
 * :1st_place_medal:Secured ***All-India highest marks*** in Mathematics and Science in the Class 10 AISSE (Board Exams)
 
 <div align="center">
+
 >𝑻𝒉𝒆 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 𝑶𝒇 𝑪𝒐𝒅𝒊𝒏𝒈 **!**
+
 </div>
 <!---
 PiyushVarman/PiyushVarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
