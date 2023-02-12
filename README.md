@@ -21,7 +21,7 @@
 <div align="center">
 
 >𝑻𝒉𝒆 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 𝑶𝒇 𝑪𝒐𝒅𝒊𝒏𝒈 ***!***
-https://www.google.com/url?sa=i&url=https%3A%2F%2Flhongtortai.com%2Fcollection%2Ftransparent-hourglass-gif&psig=AOvVaw3mDADAwHwjFqXNGRrcSHSO&ust=1676299646139000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiDivmckP0CFQAAAAAdAAAAABAk
+  
 </div>
 <!---
 PiyushVarman/PiyushVarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
