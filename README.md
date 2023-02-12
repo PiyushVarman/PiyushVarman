@@ -1,7 +1,7 @@
 ## :fire:About Me:
 - 🤙 Hi, I'm Piyush Varman:india:(You can call me PCV!)
 - 💫 I’m interested in Computer Science💻, Formula 1🏁 and I am a bookworm📚!
-- 🤓 I’m currently learning Python, and have begun 𝑻𝒉𝒆 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 𝑶𝒇 𝑪𝒐𝒅𝒊𝒏𝒈***!***
+- 🤓 I’m currently learning Python, and have begun 𝑻𝒉𝒆 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 𝑶𝒇 𝑪𝒐𝒅𝒊𝒏𝒈 ***!***
 
 ## :chart_with_upwards_trend:Stats:
 <div align="center">
