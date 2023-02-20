@@ -1,9 +1,9 @@
-## :fire:About Me:
+## :fire:_**About Me:**_
 - 🤙 Hi, I'm Piyush Varman:india:(You can call me PCV!)
 - 💫 I’m interested in Computer Science💻, Formula 1🏁 and I am a bookworm📚!
 - 🤓 I’m currently learning Python, and have begun 𝑻𝒉𝒆 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 𝑶𝒇 𝑪𝒐𝒅𝒊𝒏𝒈 ***!***
 
-## :chart_with_upwards_trend:Stats:
+## :chart_with_upwards_trend:**_Stats:_**
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PiyushVarman&theme=dark)](https://git.io/streak-stats)
@@ -12,7 +12,7 @@
 
 </div>
 
-## :trophy:Achievements and Activities:
+## :trophy:_**Achievements and Activities:**_
 
 * :2nd_place_medal:Part of a team ranked ***2nd among 43*** in the SRM Codathon 2023 (w/ @Rahul-LJ and @Uvan1532)
 * :mag:Attended an AI Workshop by AIWS held at the prestigious ***IIT Madras***. 
