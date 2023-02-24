@@ -18,7 +18,6 @@
 * :mag:Attended an AI Workshop by AIWS held at the prestigious ***IIT Madras***. 
 * :1st_place_medal:Secured ***All-India highest marks*** in Mathematics and Science in the Class 10 AISSE (Board Exams)
 
-[![Charizard](https://img.pokemondb.net/sprites/ruby-sapphire/normal/charizard.png)](https://pokemondb.net/pokedex/charizard)
 <!---
 PiyushVarman/PiyushVarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
