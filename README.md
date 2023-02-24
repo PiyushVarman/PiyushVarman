@@ -9,8 +9,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PiyushVarman&theme=dark)](https://git.io/streak-stats)
   
 >𝑻𝒉𝒆 𝒋𝒐𝒖𝒓𝒏𝒆𝒚'𝒔 𝒕𝒉𝒆 𝒃𝒆𝒔𝒕 𝒑𝒂𝒓𝒕, 𝒆𝒗𝒆𝒏 𝒘𝒉𝒆𝒏 𝒕𝒉𝒆 𝒓𝒐𝒂𝒅 𝒈𝒆𝒕𝒔 𝒉𝒂𝒓𝒅.
-[![Charizard](https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif)](https://pokemondb.net/pokedex/charizard)
-</div>
 
 ## :trophy:_**Achievements and Activities:**_
 
