@@ -10,6 +10,7 @@
   
 >𝑻𝒉𝒆 𝒋𝒐𝒖𝒓𝒏𝒆𝒚'𝒔 𝒕𝒉𝒆 𝒃𝒆𝒔𝒕 𝒑𝒂𝒓𝒕, 𝒆𝒗𝒆𝒏 𝒘𝒉𝒆𝒏 𝒕𝒉𝒆 𝒓𝒐𝒂𝒅 𝒈𝒆𝒕𝒔 𝒉𝒂𝒓𝒅.
 
+</div>
 ## :trophy:_**Achievements and Activities:**_
 
 * :2nd_place_medal:Part of a team ranked ***2nd among 43*** in the SRM Codathon 2023 (w/ @Rahul-LJ and @Uvan1532)
