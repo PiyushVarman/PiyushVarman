@@ -13,8 +13,9 @@
 </div>
 
 ## :trophy:_**Achievements and Activities:**_
+<div align="center">
 ⏳𝕃𝕠𝕒𝕕𝕚𝕟𝕘...⏳
-
+</div>
 <!---
 PiyushVarman/PiyushVarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
