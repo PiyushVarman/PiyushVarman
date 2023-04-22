@@ -3,7 +3,7 @@
 - 💫 I love Computer Science💻, Formula 1🏁, Football⚽ and books📚!
 - 🤓 Learning Python, and enjoying 𝑻𝒉𝒆 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 𝑶𝒇 𝑪𝒐𝒅𝒊𝒏𝒈 ***!***
 
-##<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **_Stats:_**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **_Stats:_**
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PiyushVarman&theme=dark)](https://git.io/streak-stats)
