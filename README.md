@@ -12,7 +12,7 @@
 
 </div>
 
-## :trophy:_**Achievements and Activities:**_
+## :trophy:_**Achievements and Activities:**_[![Charizard](https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif)](https://pokemondb.net/pokedex/charizard)
 <div align="center">
 ⏳𝕃𝕠𝕒𝕕𝕚𝕟𝕘...⏳
 </div>
