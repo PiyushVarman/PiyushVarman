@@ -1,9 +1,9 @@
 ## :fire:_**About Me:**_
-- 🤙 Hi, I'm Piyush Varman:india:(You can call me PCV!)
-- 💫 I’m interested in Computer Science💻, Formula 1🏁 and I am a bookworm📚!
-- 🤓 I’m currently learning Python, and have begun 𝑻𝒉𝒆 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 𝑶𝒇 𝑪𝒐𝒅𝒊𝒏𝒈 ***!***
+- 🤙 Hi, I'm Piyush Varman(Call me PCV!)
+- 💫 I love Computer Science💻, Formula 1🏁, Football⚽ and books📚!
+- 🤓 Learning Python, and enjoying 𝑻𝒉𝒆 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 𝑶𝒇 𝑪𝒐𝒅𝒊𝒏𝒈 ***!***
 
-## :chart_with_upwards_trend:**_Stats:_**
+[## :chart_with_upwards_trend:](https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966)**_Stats:_**
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PiyushVarman&theme=dark)](https://git.io/streak-stats)
@@ -12,7 +12,7 @@
 
 </div>
 
-## :trophy:_**Achievements and Activities:**_[![Charizard](https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif)](https://pokemondb.net/pokedex/charizard)
+## :trophy:_**Achievements and Activities:**
 <div align="center">
 ⏳𝕃𝕠𝕒𝕕𝕚𝕟𝕘...⏳
 </div>
