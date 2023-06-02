@@ -12,7 +12,7 @@
 
 </div>
 
-## :trophy:_**Achievements and Activities:**
+## :trophy:_**Achievements and Activities:**_
 <div align="center">
 ⏳𝕃𝕠𝕒𝕕𝕚𝕟𝕘...⏳
 </div>
