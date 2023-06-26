@@ -15,7 +15,7 @@
 ## :trophy:_**Achievements and Activities:**_
 <div align='center'>
   
-- **&** Competed as Student Adjudicator for Chettinad Vidyashram's Ampersand Debate Competition
+ **&** Competed as Student Adjudicator for Chettinad Vidyashram's Ampersand Debate Competition
 </div>
 <!---
 PiyushVarman/PiyushVarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
