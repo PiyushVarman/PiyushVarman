@@ -14,6 +14,7 @@
 
 ## :trophy:_**Achievements and Activities:**_
 <div align='center'>
+  
 - **&** Competed as Student Adjudicator for Chettinad Vidyashram's Ampersand Debate Competition
 </div>
 <!---
