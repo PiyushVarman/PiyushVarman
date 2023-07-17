@@ -13,7 +13,7 @@
 </div>
 
 ## :trophy:_**Achievements and Activities:**_
-- :2nd_place_medal: Won 2nd Place in Ted Talk on the topic "The Power of Believing that You can Improve Yourself", at PS' Scintillations
+- :2nd_place_medal: Won 2nd Place in Ted Talk on the topic "The Power of Believing that You can Improve", at PS' Scintillations
 - **&** Competed as Student Adjudicator for Chettinad Vidyashram's Ampersand Debate Competition
 - 👨‍💻Competed in Sishyamrita's 2023 edition of ***Hack Attack***
 
