@@ -13,8 +13,8 @@
 </div>
 
 ## :trophy:_**Achievements and Activities:**_
-- 🏆Selected as the **Best Outgoing Student** for the academic year 2023-24, @davbgpm
-- 1️⃣Overall Coordinator for Team JARVIS 2K23, @davbgpm's Visual Media Team
+- 🏆Selected as the _**Best Outgoing Student**_ for the academic year 2023-24, @davbgpm
+- ⭐Overall Coordinator for Team **JARVIS 2K23**, @davbgpm's Visual Media Team
 - :2nd_place_medal: Won 2nd Place in Ted Talk on the topic "The Power of Believing that You can Improve", at PS' Scintillations
 - Coordinated and formulated the league system for computer contests at @davbgpm - the **_Computer Fest_**
 -  **&** Competed as Student Adjudicator for Chettinad Vidyashram's Ampersand Debate Competition
