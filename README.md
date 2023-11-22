@@ -16,6 +16,7 @@
 - 🏆Selected as the _**Best Outgoing Student**_ for the academic year 2023-24, @davbgpm
 - ⭐Overall Coordinator for Team **JARVIS 2K23**, @davbgpm's Visual Media Team
 - :2nd_place_medal: Won 2nd Place in Ted Talk on the topic "The Power of Believing that You can Improve", at PS' Scintillations
+- :2nd_place_medal: Won 2nd Place in Codefusion (App Building Contest) by creating the Knowledge is Power dashboard, at PS' Codessey 2023 with @uvan1532 @raja986 @Srikant-V-Subramanian
 - Coordinated and formulated the league system for computer contests at @davbgpm - the **_Computer Fest_**
 -  **&** Competed as Student Adjudicator for Chettinad Vidyashram's Ampersand Debate Competition
 - 👨‍💻Competed in Sishyamrita's 2023 edition of ***Hack Attack***
