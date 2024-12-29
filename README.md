@@ -7,8 +7,6 @@
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PiyushVarman&theme=dark&border_radius=45&date_format=M%20j%5B%2C%20Y%5D&border=EBEBEB)](https://git.io/streak-stats)
-  
->𝑻𝒉𝒆 𝒋𝒐𝒖𝒓𝒏𝒆𝒚'𝒔 𝒕𝒉𝒆 𝒃𝒆𝒔𝒕 𝒑𝒂𝒓𝒕, 𝒆𝒗𝒆𝒏 𝒘𝒉𝒆𝒏 𝒕𝒉𝒆 𝒓𝒐𝒂𝒅 𝒈𝒆𝒕𝒔 𝒉𝒂𝒓𝒅.
 
 <!---
 PiyushVarman/PiyushVarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
