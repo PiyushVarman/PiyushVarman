@@ -5,8 +5,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **_Stats:_**
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=PiyushVarman&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PiyushVarman)](https://git.io/streak-stats)
 </div>
 <!---
 PiyushVarman/PiyushVarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
