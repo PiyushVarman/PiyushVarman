@@ -1,4 +1,4 @@
-<div style="display:flex flex-direction:row">
+<div style="display:flex flex-direction:column">
   ## :fire:_**About Me:**_
   - 🤙 Hi, I'm Piyush Varman (Call me PCV!)
   - 💫 I love Computer Science💻, Formula 1🏁, Football⚽ and Books📔!
