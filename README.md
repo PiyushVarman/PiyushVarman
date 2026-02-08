@@ -1,3 +1,4 @@
+<html>
 <div style="display:flex">
   ## :fire:_**About Me:**_
   - 🤙 Hi, I'm Piyush Varman (Call me PCV!)
@@ -10,6 +11,7 @@
   [![GitHub Streak](https://streak-stats.demolab.com/?user=PiyushVarman)](https://git.io/streak-stats)
   </div>
 </div>
+</html>
 <!---
 PiyushVarman/PiyushVarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
