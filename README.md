@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **_Stats:_**
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PiyushVarman)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PiyushVarman&theme=dark&border_radius=1000&card_width=240&card_height=240&background=80%2C000000%2C202020&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 </div>
 <!---
