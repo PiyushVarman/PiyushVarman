@@ -1,1 +1,1 @@
-<h1 style="font-family: Montserrat">Loading...</h1>
+<h1 style="">Loading...</h1>
