@@ -20,21 +20,25 @@
 ## `Web/Application Development`
 
 <br/>
+
 `Frontend Technologies`
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
 
 <br/>
+
 `Backend and Database Technologies`
 
 <img src="https://skillicons.dev/icons?i=express,nodejs,mongodb,mysql"/>
 
 <br/>
+
 `Frameworks and Libraries`
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind,bootstrap"/>
 
 <br/>
+
 `Developer Tools`
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma"/>
