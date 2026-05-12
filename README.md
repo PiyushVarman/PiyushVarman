@@ -12,7 +12,6 @@
 - 🔎 Currently exploring and improving my Tech Stack
 
 
-<br/>
 <div align="center">
   
 ## `Stack`
