@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&duration=1000&pause=2001&color=FFd700&background=0D111744&center=true&vCenter=true&width=700&lines=Piyush+Varman;PCV;AI%2FML+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&duration=2000&pause=2000&color=FFd700&background=0D111744&center=true&vCenter=true&width=700&lines=Piyush+Varman;PCV;AI%2FML+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 <br/><br/>
 <a href="https://www.linkedin.com/in/piyush-varman" target="_blank" rel="noopener"> ![Static Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge) </a>
 
