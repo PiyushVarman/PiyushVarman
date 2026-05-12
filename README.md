@@ -11,10 +11,7 @@
 - 👨‍💻 Interested in building applications that harness the **power of AI** to deliver **user-friendly experiences**
 - 🔎 Currently exploring and improving my Tech Stack
 
-<br/>
 <div align="center">
-  
-## `Stack`
   
 ## `Languages`
 
