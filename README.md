@@ -14,7 +14,8 @@
 
 <br/>
 <div align="center">
-
+# `Tech Stack`
+  
 ## Languages
 
 <img src="https://skillicons.dev/icons?i=py,c,cpp,java"/>
