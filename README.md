@@ -23,15 +23,15 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
 
-### `Backend and Database Technologies`
+`Backend and Database Technologies`
 
 <img src="https://skillicons.dev/icons?i=express,nodejs,mongodb,mysql"/>
 
-### `Frameworks and Libraries`
+`Frameworks and Libraries`
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind,bootstrap"/>
 
-### `Developer Tools`
+`Developer Tools`
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma"/>
 
