@@ -19,7 +19,7 @@
 
 ## `Web/Application Development`
 
-### `Frontend Technologies`
+`Frontend Technologies`
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
 
