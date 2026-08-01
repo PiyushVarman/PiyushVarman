@@ -15,7 +15,7 @@
   
 ## `Languages`
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java"/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,r"/>
 
 ## `Web/Application Development`
 
