@@ -33,7 +33,7 @@
 
 ### `Developer Tools`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vite,figma"/>
 
 </div>
 </html>
