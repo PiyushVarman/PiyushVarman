@@ -7,7 +7,7 @@
 </div>
 
 - 👋 Hi! I'm Piyush Varman (call me PCV!)
-- 📚 Sophomore at Vellore Institute of Technology, Chennai (B.Tech CSE, AI/ML)
+- 📚 Junior at Vellore Institute of Technology, Chennai (B.Tech CSE, AI/ML)
 - 👨‍💻 Interested in building applications that harness the **power of AI** to deliver **user-friendly experiences**
 - 🔎 Currently exploring and improving my Tech Stack
 
