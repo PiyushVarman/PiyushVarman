@@ -12,61 +12,65 @@
 - 🔎 Currently exploring and improving my Tech Stack
 
 <div align="center">
-  
+
 ## `Languages`
-<div style="display: flex; gap: 2px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/python" width="64px" title="Python"/>
-  <img src="https://iconic-api.onrender.com/dark/c" width="64px" title="C"/>
-  <img src="https://iconic-api.onrender.com/dark/cpp" width="64px" title="C++"/>
-  <img src="https://iconic-api.onrender.com/dark/java" width="64px" title="Java"/>
-  <img src="https://iconic-api.onrender.com/dark/r" width="64px" title="R"/>
-  <img src="https://iconic-api.onrender.com/dark/js" width="64px" title="JavaScript"/>
-  <img src="https://iconic-api.onrender.com/dark/typescript" width="64px" title="TypeScript"/>
-</div>
+
+<p align="center">
+  <img src="https://shieldcn.dev/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://shieldcn.dev/badge/C-A8B9CC?logo=c&logoColor=white" alt="C"/>
+  <img src="https://shieldcn.dev/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://shieldcn.dev/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://shieldcn.dev/badge/R-276DC3?logo=r&logoColor=white" alt="R"/>
+  <img src="https://shieldcn.dev/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://shieldcn.dev/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
 
 ## `Web/Application Development`
 
-<div style="display: flex; gap: 2px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/html" width="64px" title="HTML" />
-  <img src="https://iconic-api.onrender.com/dark/css" width="64px" title="CSS"/>
-  <img src="https://iconic-api.onrender.com/dark/react" width="64px" title="React.js"/>
-  <img src="https://iconic-api.onrender.com/dark/nextjs" width="64px" title="Next.js" />
-  <img src="https://iconic-api.onrender.com/dark/express" width="64px" title="Express.js"/>
-  <img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" title="Node.js"/>
-  <img src="https://iconic-api.onrender.com/dark/fastapi" width="64px" title="FastAPI"/>
-  <img src="https://iconic-api.onrender.com/dark/tailwind" width="64px" title="Tailwind CSS"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="64px" title="Bootstrap"/> 
-</div>
+<p align="center">
+  <img src="https://shieldcn.dev/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://shieldcn.dev/badge/CSS3-1572B6?logo=css&logoColor=white" alt="CSS3"/>
+  <img src="https://shieldcn.dev/badge/React.js-20232A?logo=react&logoColor=61DAFB" alt="React.js"/>
+  <img src="https://shieldcn.dev/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://shieldcn.dev/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://shieldcn.dev/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://shieldcn.dev/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://shieldcn.dev/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://shieldcn.dev/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+  <img src="https://shieldcn.dev/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
 ### `Databases`
-<div style="display: flex; gap: 2px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/mongodb" width="64px" title="MongoDB"/>
-  <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" title="MySQL"/>
-</div>
+
+<p align="center">
+  <img src="https://shieldcn.dev/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://shieldcn.dev/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
 ### `AI/ML & Data`
 
-<div style="display: flex; gap: 2px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/gemini" width="64px" title="Google Gemini AI API"/>
-  <img src="https://iconic-api.onrender.com/dark/chatgpt" width="64px" title="OpenAI AI API"/>
-  <img src="https://iconic-api.onrender.com/dark/meta" width="64px" title="Meta (FAISS)" />
-  <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="64px" title="Scikit-learn (sklearn)"/>
-  <img src="https://iconic-api.onrender.com/dark/pandas" width="64px" title="Pandas"/>
-  <img src="https://iconic-api.onrender.com/dark/numpy" width="64px" title="NumPy"/>
-</div>
+<p align="center">
+  <img src="https://shieldcn.dev/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://shieldcn.dev/badge/Google_Gemini-8E75C2?logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://shieldcn.dev/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://shieldcn.dev/badge/Meta_FAISS-0466C8?logo=meta&logoColor=white" alt="Meta FAISS"/>
+  <img src="https://shieldcn.dev/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://shieldcn.dev/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://shieldcn.dev/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
 ## `Developer Tools & Cloud`
 
-<div style="display: flex; gap: 2px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/aws" width="64px" title="Amazon Web Services"/>
-  <img src="https://iconic-api.onrender.com/dark/git" width="64px" title="Git"/>
-  <img src="https://iconic-api.onrender.com/dark/github" width="64px" title="GitHub" />
-  <img src="https://iconic-api.onrender.com/dark/docker" width="64px" title="Docker" />
-  <img src="https://iconic-api.onrender.com/dark/vscode" width="64px" title="Visual Studio Code"/>
-  <img src="https://iconic-api.onrender.com/dark/google-colab" width="64px" title="Google Colaboratory"/>
-  <img src="https://iconic-api.onrender.com/dark/figma" width="64px" title="Figma"/>
-</div>
+<p align="center">
+  <img src="https://shieldcn.dev/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://shieldcn.dev/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
+  <img src="https://shieldcn.dev/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://shieldcn.dev/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://shieldcn.dev/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://shieldcn.dev/badge/RStudio_IDE-75AADB?logo=rstudioide&logoColor=white" alt="RStudio IDE"/>
+  <img src="https://shieldcn.dev/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://shieldcn.dev/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://shieldcn.dev/badge/VirtualBox-F8981D?logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+</p>
 
-
 </div>
-</html>
