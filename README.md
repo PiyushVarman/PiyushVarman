@@ -63,6 +63,7 @@
 
 <p align="center">
   <img src="https://shieldcn.dev/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://shieldcn.dev/badge/Firebase-DD2C00?logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://shieldcn.dev/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
   <img src="https://shieldcn.dev/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://shieldcn.dev/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
